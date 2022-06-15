@@ -32,3 +32,4 @@ torchaudio
 thop  # FLOPS computation
 streamlit
 pycocotools
+easydict
