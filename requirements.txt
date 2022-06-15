@@ -27,7 +27,7 @@ pandas
 torch==1.9.0
 torchvision 
 torchaudio 
-cudatoolkit==11.1
+cudatoolkit==11.1 -c pytorch -c nvidia -c conda-forge
 
 # extras --------------------------------------
 thop  # FLOPS computation
