@@ -728,4 +728,3 @@ def detect_img(file_name, enable_GPU, confidence, assigned_class_id,
             os.system('open ' + save_path)
 
     print('Done. (%.3fs)' % (time.time() - t0))
-    cv2.destroyAllWindows()
