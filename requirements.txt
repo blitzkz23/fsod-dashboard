@@ -4,7 +4,7 @@
 Cython
 matplotlib>=3.2.2
 numpy>=1.18.5
-opencv-python-headless>=4.5.3.56
+opencv-python>=4.1.2
 Pillow
 PyYAML>=5.3.1
 scipy>=1.4.1
@@ -26,3 +26,4 @@ pandas
 # extras --------------------------------------
 thop  # FLOPS computation
 streamlit
+pycocotools
